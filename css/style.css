@@ -1,0 +1,52 @@
+.container {
+    max-width: 1100px;
+}
+
+.active {
+    border-left: 2px solid #333;
+}
+
+.box {
+    background: url(../img/город.jpg) fixed no-repeat center center/cover ;
+    height: 200px;
+}
+.box1{
+    height: 250px;
+    background: url(../img/logo.jpg);
+}
+
+.footer{
+    background: #333;
+}
+input{
+    border-radius: 5px;
+}
+footer{
+    height: 100px;
+    width: 100%;
+    background: black;
+}
+.head{ 
+    background: url(../img/city.jpg) fixed  center center/cover no-repeat ;
+    height: 300px;
+    width: 100%;
+}
+.box5{ 
+    transform: translateY(-60px);
+    border-radius: 50%;
+    height: 600px;
+    width:  600px;
+}
+.head3{
+    background: url(../img/ocean.jpg) fixed  center center/cover no-repeat ;
+    height: 300px;
+    width: 100%;
+}
+.btn1{
+    height: 30px;
+    display: block;
+}
+
+a{
+    text-decoration: none;
+}
